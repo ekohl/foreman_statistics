@@ -12,4 +12,4 @@ locale/*/*.pox
 node_modules
 package-lock.json
 Gemfile.lock
-coverage
+coveragelocale/action_names.rb
