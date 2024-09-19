@@ -11,13 +11,14 @@
 # Luiz Henrique Vasconcelos <luizvasconceloss@yahoo.com.br>, 2021
 # Amit Upadhye <aupadhye@redhat.com>, 2022
 #
+#, fuzzy
 msgid ""
 msgstr ""
-"Project-Id-Version: foreman_statistics 2.0.1\n"
+"Project-Id-Version: foreman_statistics 2.1.0\n"
 "Report-Msgid-Bugs-To: \n"
 "PO-Revision-Date: 2021-02-03 22:59+0000\n"
 "Last-Translator: Amit Upadhye <aupadhye@redhat.com>, 2022\n"
-"Language-Team: Portuguese (Brazil) (https://www.transifex.com/foreman/teams/11"
+"Language-Team: Portuguese (Brazil) (https://app.transifex.com/foreman/teams/11"
 "4/pt_BR/)\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
